@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+/)## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hkim426/TEST/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[learn python!](https://www.python.org
+[learn python!](https://www.python.org/)
 and ![see it too](src)
 ```
 
