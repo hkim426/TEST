@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://www.python.org/) and ![Image](http://www.bing.com/images/search?view=detailV2&ccid=NrxaooJS&id=5F7211F15A92CB984464D708F97A0A8BFCBCC6C6&q=python+snake&simid=608027964495498404&selectedIndex=1)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
